@@ -1,4 +1,4 @@
-package com.andrewandwhitney.powerset;
+package com.andrewandwhitney.puzzles;
 
 import java.util.ArrayList;
 import java.util.Arrays;
