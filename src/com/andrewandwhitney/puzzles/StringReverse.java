@@ -2,6 +2,10 @@ package com.andrewandwhitney.puzzles;
 
 import java.util.Arrays;
 
+/**
+ * Finds the complete reverse of a String as well as the reverse of a String,
+ * keeping words intact.
+ */
 public class StringReverse {
     private static final char SPACE = ' ';
     

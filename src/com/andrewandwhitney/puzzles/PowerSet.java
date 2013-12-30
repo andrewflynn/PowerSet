@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Finds the power set (http://en.wikipedia.org/wiki/Power_set) of a given list of numbers
+ * using bitwise-arithmetic, an iterative approach, and recursion.
+ */
 public class PowerSet {
     private static final List<String> ZERO = Arrays.asList();
     private static final List<String> ONE = Arrays.asList("A");
